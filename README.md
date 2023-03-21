@@ -28,6 +28,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![Walkthrough](https://raw.githubusercontent.com/alexperryrhodes/project4_catfacts/main/gif.gif)
+![Network](https://github.com/alexperryrhodes/project4_catfacts/blob/main/networkgif.gif?raw=true)
 
 GIF created with ...  
 
